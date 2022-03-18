@@ -1,0 +1,21 @@
+observableId	simulationConditionId	measurement	time	noiseParameters	datasetId
+observable_SF	experiment_1	101.0867	0		EXP1
+observable_SF	experiment_1	77.3953	52.6		EXP1
+observable_SF	experiment_1	79.3136	105.3		EXP1
+observable_SF	experiment_1	61.681	157.9		EXP1
+observable_SF	experiment_1	55.9719	210.5		EXP1
+observable_SF	experiment_1	45.8935	263.2		EXP1
+observable_SF	experiment_1	46.5498	315.8		EXP1
+observable_SF	experiment_1	28.5951	368.4		EXP1
+observable_SF	experiment_1	25.7066	421.1		EXP1
+observable_SF	experiment_1	20.997	473.7		EXP1
+observable_SF	experiment_1	19.1526	526.3		EXP1
+observable_SF	experiment_1	12.489	578.9		EXP1
+observable_SF	experiment_1	10.1536	631.6		EXP1
+observable_SF	experiment_1	8.5092	684.2		EXP1
+observable_SF	experiment_1	6.7844	736.8		EXP1
+observable_SF	experiment_1	4.2884	789.5		EXP1
+observable_SF	experiment_1	3.3248	842.1		EXP1
+observable_SF	experiment_1	2.5276	894.7		EXP1
+observable_SF	experiment_1	1.6441	947.4		EXP1
+observable_SF	experiment_1	1.1227	1000		EXP1

@@ -1,0 +1,4 @@
+parameterId	parameterName	parameterScale	lowerBound	upperBound	nominalValue	estimate
+log_k1	log_k1	lin	-5	1	-4.6052	0
+log_k2	log_k2	lin	-3	3	1	1
+log_k3	log_k3	lin	-3	3	1	1
